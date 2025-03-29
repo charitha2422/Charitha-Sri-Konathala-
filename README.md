@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Charitha Sri Konathala</h1>
-<h3 align="center">An aspiring Full Stack Developer from India, eager to collaborate on innovative ideas.</h3>
+<h3 align="center">An Aspiring Full Stack Developer from India, eager to collaborate on innovative ideas.</h3>
 
 - 💬 Ask me about **React Js, Jsp, Spring Boot**
 
