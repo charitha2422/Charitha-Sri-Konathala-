@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Charitha Sri Konathala</h1>
 <h3 align="center">An aspiring Full Stack Developer from India, eager to collaborate on innovative ideas.</h3>
 
-- 💬 Ask me about **React, Jsp, Spring Boot**
+- 💬 Ask me about **React JS, Jsp, Spring Boot**
 
 - 📫 How to reach me **charitha3011sri@gmail.com**
 
